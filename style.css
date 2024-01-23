@@ -1,0 +1,12 @@
+.container{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+h2{
+    text-align: center;
+    color: crimson;
+}
+table,th,td{
+    border-style: solid;
+    border: 1px solid black;
+}
